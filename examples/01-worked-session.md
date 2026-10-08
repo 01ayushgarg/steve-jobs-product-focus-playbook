@@ -1,4 +1,4 @@
-# Worked example: a product review of "Brightwell"
+# Worked example: a product review of *Brightwell*
 
 > **Fictional.** Brightwell, its people and every number below are invented to show how the skill works.
 > Nothing here is a claim about any real company. Quotes from Steve Jobs are real and cited.
@@ -14,7 +14,7 @@ Everything we're working on:
   - 3 monitors: Brightwell Mini ($79), Brightwell ($149), Brightwell Pro ($249)
   - a plug-in purifier ($199), launched 4 months ago
   - 3 subscription plans: Basic, Plus, Family
-  - an Android app, an iOS app, a web dashboard, and a "landlord portal" for one pilot customer
+  - an Android app, an iOS app, a web dashboard, and a *landlord portal* for one pilot customer
   - an open API and a Home Assistant integration
   - a smart-thermostat partnership (prototype)
   - a B2B version for daycare centres (2 pilots)
@@ -38,7 +38,7 @@ the Macintosh grid [MSW-speech-macworld-1998].
 |---|---|---|---|---|
 | 1 | Brightwell monitor (merge Mini and standard into one, $119) | Know · one room | Engineer A | The core experience; most customers start here |
 | 2 | Brightwell Pro | Know · whole home | Engineer B | Multi-room families, highest margin |
-| 3 | The purifier, linked to the monitor | Fix · one room | Engineer C | Turns "the air is bad" into "the air is fixed" |
+| 3 | The purifier, linked to the monitor | Fix · one room | Engineer C | Turns *the air is bad* into *the air is fixed* |
 | 4 | One subscription (Family), included free for year one | Fix · whole home | Product lead | Alerts and history across rooms |
 
 "And as a matter of fact, if we only had four, we could put the A team on every single one of them."
@@ -58,9 +58,10 @@ the Macintosh grid [MSW-speech-macworld-1998].
 
 - Share of the list merged, killed, hidden or frozen: 9 of 13 (69 percent). He cut about 70 percent of
   Apple's roadmap in 1997 [MSW-speech-apple-1997]. **Our reading:** the number is a check, not a target.
-- Platforms: iOS and Android apps, plus the web dashboard, plus firmware: four stacks. He doubted most
-  companies could manage more than two [WWDC97 61:16 to 62:12] (machine transcript of the archive.org
-  recording, made for this repo; check wording against the video). Hiding the dashboard takes it to three.
+- Platforms: iOS and Android apps, plus the web dashboard, plus firmware: four stacks. In 1997 he said he
+  couldn't imagine Apple managing three operating systems [WWDC97 62:12] (machine transcript of the
+  archive.org recording, made for this repo). **Our suggestion:** treat more than two as a flag. Hiding the
+  dashboard takes it to three, still worth watching.
 
 The founder wanted to keep the daycare pilots because they were interesting. "Microcosmically, they might
 have made sense. ... Macrocosmically, they made no sense." [WWDC97 05:49 to 05:52]
@@ -90,7 +91,8 @@ have made sense. ... Macrocosmically, they made no sense." [WWDC97 05:49 to 05:5
 Run as a platform call (chapter 11). A partner's app would sit between Brightwell and its customers and set
 the pace of every new feature: "We cannot be at the mercy of a third party deciding if and when they will make
 our enhancements available to our developers." [FLASH10] The app *is* the card, so they keep it.
-**Our reading:** this is the 10 to 30 percent you own [WWDC97 11:30]. The rest (hosting, payments) they buy.
+**Our reading:** the card and the alert logic are the primary technology, the part he said he always wanted
+to own and control [BW04]. The rest (hosting, payments) they buy.
 
 ### People
 
@@ -102,7 +104,7 @@ our enhancements available to our developers." [FLASH10] The app *is* the card, 
 
 - **What we want them to know:** *you'll always know if the air your kids breathe is OK, and you can fix it.*
   It's about the parent, not the sensor ("not to talk about speeds and feeds" [MSW-speech-apple-1997]).
-- **Reason for being** (draft 5 of 5): *Brightwell makes the air in your home something you can see and fix,
+- **Reason for being** (draft 5 of 5, using `templates/05-reason-for-being.md`): *Brightwell makes the air in your home something you can see and fix,
   so parents can stop worrying about what their kids are breathing.* All four products fit it. The daycare
   version didn't, which confirmed the pause.
 
@@ -119,7 +121,7 @@ our enhancements available to our developers." [FLASH10] The app *is* the card, 
 
 1. Ship the four-step setup and the lock-screen card to new customers. Owner: engineer A.
    [WWDC97 52:06]
-2. Send the "no" messages: pilots and partner this week, subscribers 60 days ahead. Owner: founder.
+2. Send the *no* messages: pilots and partner this week, subscribers 60 days ahead. Owner: founder.
    [MSW-email-apple-newton]
 3. Open the firmware lead role at the A-player bar. Owner: founder. `templates/03-a-player-hiring-bar.md`
 
@@ -129,6 +131,8 @@ what to do without help.
 ### Where to be careful
 
 - His four-product cut was for computers in 1998. Applying it to a subscription business is our reading.
+  Brightwell has several products; a one-product company would run the same pass on features and segments
+  instead (chapter 01).
 - The 70 percent is a check from one turnaround, not a rule.
 - The cut affects real people: two pilot customers, one partner, and subscribers on the killed plans. The skill
   drafted the messages; the founder should make the calls.
