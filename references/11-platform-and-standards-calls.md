@@ -1,50 +1,47 @@
-# 11 · Platform and standards calls: "Thoughts on Flash" as a worked example
+# 11 · Platform and standards calls: *Thoughts on Flash* as a worked example
 
-In April 2010 he published an open letter, signed "Steve Jobs", explaining why Apple did not allow Adobe's Flash
+In April 2010 he published an open letter, signed *Steve Jobs*, explaining why Apple did not allow Adobe's Flash
 on iPhones, iPods and iPads [FLASH10]. It's the most detailed record in his own words of a hard platform
-decision: one that disappointed customers and a long-time partner. This chapter takes it apart as a method.
+decision, one that disappointed customers and a long-time partner. This chapter takes its structure apart as
+a method. We summarise the letter in our own words and quote it sparingly; read the original for the full
+argument.
 
 ## Step 1 · State the decision and the accusation
 
-> "Adobe has characterized our decision as being primarily business driven" ... "but in reality it is based on
-> technology issues." [FLASH10]
-
-He opens by naming the history with the other side: "Apple was their first big customer, adopting their
-Postscript language for our new Laserwriter printer." [FLASH10] (The same PostScript he praised at WWDC in 1997,
+He opens by naming Adobe's charge, that the decision was business-driven, and answering that "in reality it is
+based on technology issues." [FLASH10] He also names the shared history: Apple had been Adobe's first big
+customer, using PostScript in the LaserWriter [FLASH10]. (The same PostScript he praised at WWDC in 1997,
 chapter 04.)
 
 ## Step 2 · Give the reasons, numbered
 
-The letter has six numbered sections. Our summary, with one quote each:
+The letter has six numbered sections. Our summary:
 
-| # | His heading | The argument in his words |
+| # | His topic | The argument, in our words |
 |---|---|---|
-| 1 | "Open" | "By almost any definition, Flash is a closed system." [FLASH10] |
-| 2 | The "full web" | "iPhone, iPod and iPad users aren't missing much video." [FLASH10] |
-| 3 | Reliability, security and performance | "We also know first hand that Flash is the number one reason Macs crash." [FLASH10] |
-| 4 | Battery life | "To achieve long battery life when playing video, mobile devices must decode the video in hardware; decoding it in software uses too much power." [FLASH10] |
-| 5 | Touch | "Flash was designed for PCs using mice, not for touch screens using fingers." [FLASH10] |
-| 6 | The most important reason | "We cannot be at the mercy of a third party deciding if and when they will make our enhancements available to our developers." [FLASH10] |
-
+| 1 | Openness | Flash is controlled by one company, so it is closed, whatever its reach [FLASH10] |
+| 2 | The *full web* | Most web video was already available in a format iPhones played [FLASH10] |
+| 3 | Reliability, security, performance | He cited a security firm ranking Flash's 2009 record among the worst, and wrote that Flash was "the number one reason Macs crash" [FLASH10] |
+| 4 | Battery life | Video must be decoded in hardware to save power, and almost all Flash video then needed an older decoder that mobile chips lacked [FLASH10] |
+| 5 | Touch | Flash was built for mice, not fingers [FLASH10] |
+| 6 | The most important reason | Apple wouldn't let a third party decide when its improvements reached developers [FLASH10] |
 
 **Our reading of the structure:** each reason is checkable (a security record, a crash cause, battery hours,
 an interaction model), and the most important reason is saved for last and labelled as such.
 
 ## Step 3 · Put numbers on it
 
-> "The difference is striking: on an iPhone, for example, H.264 videos play for up to 10 hours, while videos
-> decoded in software play for less than 5 hours before the battery is fully drained." [FLASH10]
-
-> "We have routinely asked Adobe to show us Flash performing well on a mobile device, any mobile device, for a
-> few years now. We have never seen it." [FLASH10]
+His battery figures: on an iPhone, hardware-decoded video "play for up to 10 hours," against *less than 5
+hours* for video decoded in software [FLASH10]. He added that Apple had asked Adobe for years to show Flash
+performing well on any mobile device: "We have never seen it." [FLASH10]
 
 ## Step 4 · Name the real strategic risk
 
-> "We know from painful experience that letting a third party layer of software come between the platform and
-> the developer ultimately results in sub-standard apps and hinders the enhancement and progress of the
-> platform." [FLASH10]
+> "We cannot be at the mercy of a third party deciding if and when they will make our enhancements available
+> to our developers." [FLASH10]
 
-> "Hence developers only have access to the lowest common denominator set of features." [FLASH10]
+He explained why: a cross-platform layer means developers get only the "lowest common denominator set of
+features" [FLASH10], and Apple had learned this, he wrote, "from painful experience" [FLASH10].
 
 **The move:** the deepest platform question is who controls the pace of your improvements. If a layer between
 you and your developers can hold back every new feature, that layer is a strategic risk, however popular it
@@ -52,29 +49,21 @@ is.
 
 ## Step 5 · Separate what should be open from what you control
 
-> "Apple has many proprietary products too. Though the operating system for the iPhone, iPod and iPad is
-> proprietary, we strongly believe that all standards pertaining to the web should be open." [FLASH10]
-
-Compare WWDC in May 1997, where he said the opposite habit had hurt Apple: "So I think this whole notion of
-being so proprietary in every facet of what we do has really hurt us." [WWDC97 11:46] (`[WWDC97]` is a machine
-transcript of the archive.org recording, made for this repo; check wording against the video.) **Our
-reading:** both fit one rule. Own the parts that make the experience; use open standards where the industry
-has already agreed.
+He conceded Apple's own operating system was proprietary, and drew the line at the web, whose standards, he
+wrote, *should be open.* [FLASH10] At WWDC in 1997 he had criticised the opposite habit: "this whole notion of
+being so proprietary in every facet of what we do has really hurt us." [WWDC97 11:46] **Our reading:** both
+fit one rule. Own the parts that make the experience; use open standards where the industry has agreed.
 
 ## Step 6 · Show the alternative already works
 
-> "And the 250,000 apps on Apple's App Store proves that Flash isn't necessary for tens of thousands of
-> developers to create graphically rich applications, including games." [FLASH10]
+He pointed to the App Store's 250,000 apps as evidence that developers didn't need Flash to build rich
+apps and games [FLASH10].
 
 ## Step 7 · Frame it as eras, and close
 
-> "Flash was created during the PC era – for PCs and mice." [FLASH10]
-
-> "New open standards created in the mobile era, such as HTML5, will win on mobile devices (and PCs too)."
-> [FLASH10]
-
-> "Perhaps Adobe should focus more on creating great HTML5 tools for the future, and less on criticizing Apple
-> for leaving the past behind." [FLASH10]
+He described Flash as a product of *the PC era* [FLASH10] and predicted new open standards such as HTML5 would win on
+mobile. His last line suggested Adobe should build HTML5 tools "and less on criticizing Apple for leaving the
+past behind." [FLASH10]
 
 ## What he said about it six weeks later (D8, June 2010)
 
@@ -83,11 +72,8 @@ the liveblog, but they are a reporter's live notes, not a transcript:
 
 > "We didn't set out to have a war over Flash. We made a technical decision." [D8-10, 6:31 pm, liveblog]
 
-> "We don't think Flash makes a great product, so we're leaving it out." [D8-10, 6:32 pm, liveblog]
-
 > "Apple is a company that doesn't have the most resources in the world, and they [sic: the] way we've
-> succeeded is to bet the right technological horse, to look at technologies that have a future." [D8-10,
-> 6:23 pm, liveblog]
+> succeeded is to bet the right technological horse" [D8-10, 6:23 pm, liveblog]
 
 The same liveblog reports him citing earlier calls of this kind, such as dropping the floppy drive, but that
 part is paraphrase.
@@ -102,10 +88,30 @@ part is paraphrase.
 6. Show that customers and developers already have a good alternative.
 7. Publish it, signed by the person who made the call.
 
-**Use it now:** `templates/01-the-say-no-list.md` (the platform section) and `SKILL.md` Step 4.
+## A worked scenario (fictional)
+
+A design-tool company decides to stop supporting a third-party plugin framework that 15 percent of users rely
+on (invented).
+
+1. **Decision and accusation:** *We're ending support for the framework. Critics say it's to lock in users.*
+2. **Reasons:** crash reports (62 percent of crashes trace to it), security (three incidents this year),
+   speed (it blocks the new renderer), and last, pace: new features reach plugin users 9 months late.
+3. **Open vs control:** file formats stay open and documented; the plugin runtime becomes their own.
+4. **Alternative:** 40 of the top 50 plugins already have native versions.
+5. **Signed:** by the CEO, with a migration date and help for the remaining 10 plugin makers.
+
+## Failure modes and limits (our reading)
+
+- **Business reasons dressed as technical ones.** If your real reason is revenue, say so. The method only
+  works if the reasons are true and checkable.
+- **No alternative yet.** Step 6 is load-bearing. Without it, the no strands customers.
+- **One letter, one context.** The letter was written by the market leader in a fast-growing platform. A small
+  company saying no to a dominant partner faces different risks.
+
+**Use it now:** the platform section of `templates/01-the-say-no-list.md` and `SKILL.md` Step 4.
 
 **Checks to run:**
 1. Which third-party layer in your product could hold back your next improvement?
-2. Can you give six checkable reasons for your hardest current "no"? Which is the most important?
+2. Can you give six checkable reasons for your hardest current *no*? Which is the most important?
 3. What do your customers lose, and what's their alternative today?
-4. Where are you proprietary out of habit, and where does owning it actually make the experience?
+4. Where are you proprietary out of habit, and where does owning it make the experience?
