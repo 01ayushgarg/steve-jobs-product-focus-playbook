@@ -3,117 +3,105 @@
 > "The most important lesson I ever learned was that you have to hire people better than you are."
 > [MSW-speech-stanford-2003, 29 May 2003]
 
-## The dynamic range: 50 to 1 (1995)
+## What he said
 
-> "to really try to instill in the organization the goal of only having 'A' players." [SI95]
+**The dynamic range (1995 and 2003).** In 1995 he described the goal of "only having 'A' players" [SI95] and
+explained why: in software, he said, the gap between a good and a great person was "fifty to one,
+twenty-five to fifty to one, huge dynamic range." [SI95] In ordinary life, he said, the best is perhaps twice
+as good as the average (his example was taxi drivers in Manhattan [SI95]); in 2003 he put it at 30 to 50
+percent [MSW-speech-stanford-2003]. So it pays to go after the best people, in everything [SI95]. He traced
+the lesson to watching Wozniak, alone, outdo large engineering teams, and to the small Mac team
+[MSW-speech-stanford-2003].
 
-> "In the field that I'm in the difference between the best person and the worst person is about a hundred to
-> one or more. The difference between a good software person and a great software person is fifty to one,
-> twenty-five to fifty to one, huge dynamic range." [SI95]
+**Recruiting is the job (1990s to 2008).** "I spend 20 percent of my time recruiting" [MSW-interview-company-of-giants, 1990s]. In 2003 he called recruiting "the most important thing that you do" [MSW-speech-stanford-2003].
+In 2008 he said he had taken part in hiring "maybe 5,000-plus people" and that Apple did its own recruiting
+[FORTUNE08 p7]. In 1992 he said the people he most wanted often took a year or more to hire, and were worth
+it [MIT92].
 
-> "Therefore, I have found, not just in software, but in everything I've done it really pays to go after the
-> best people in the world." [SI95]
+**What he looked for.**
+- **Results, for experienced people.** "Ultimately the results should lead you to the people."
+  [MSW-interview-company-of-giants] He found great people by finding great results and asking who was
+  responsible.
+- **Potential, for young people.** He named "intelligence and the ability to learn quickly", plus drive and
+  passion [MSW-interview-company-of-giants].
+- **Love of the work.** For senior hires in 2008: "competence is the ante." The real question was whether
+  they would fall in love with Apple, because then they'd do what was best for Apple [FORTUNE08 p7].
+- **Why they're here.** He asked every candidate why they were there. The answer itself mattered less than
+  how they answered: *It's the meta-data.* [FORTUNE08 p7]
+- **People who tell you what to do.** In 1992: "What's harder is to find people to tell you what should be
+  done" [MIT92, spring 1992]. He made the same point to Terry Gross in 1996 [MSW-interview-terry-gross-1996].
+- **Conviction.** He described challenging a candidate's past work to see if they'd defend it, because a
+  company that is "a meritocracy of ideas" has many arguments [MSW-interview-company-of-giants].
 
-His comparison: the best and worst taxi drivers across Manhattan differ by about two to one [SI95]. In 2003 he gave
-the same lesson with restaurants and rental cars: "In normal life, the difference in dynamic range from average
-to best is usually 30, 40, 50 percent." [MSW-speech-stanford-2003]
+**It's a bet.** "When you recruit, you're rolling the dice." [MSW-interview-company-of-giants] In 2008:
+"You can't know enough in a one-hour interview." [FORTUNE08 p7]
 
-Where he learned it: "But I saw that Woz [Apple co-founder Steve Wozniak]—one guy—having meetings in his head
-could run circles around two hundred engineers at Hewlett-Packard." [MSW-speech-stanford-2003] And where he
-first applied it: "I saw a team of fifty people do something that literally hundreds, or thousands, of people
-at other companies couldn't do." [MSW-speech-stanford-2003] (the Mac team).
+**Developing people (1992 and 2008).** Asked in 1992 what he'd learned at Apple, he said he now took "a
+longer-term view on people": when something went wrong, he tried to help the person learn rather than fix
+the problem himself, though his first instinct was still to fix it [MIT92]. In 2008: "My job is to not be easy
+on people. My job is to make them better." [FORTUNE08 p5] He also said his job was to make the whole
+executive team good enough to succeed him [FORTUNE08 p5].
 
-> "And everyone says they are all prima donnas. But it turns out that when they work with each other, they're
-> not prima donnas." [MSW-speech-stanford-2003]
+**Managers who care, and management by values (2003).** "the only good reason to be a manager is so some
+other bozo doesn't be the manager" [MSW-speech-stanford-2003]. Management by values, as he described it, meant
+finding people who want what you want, "and then just get the hell out of their way."
+[MSW-speech-stanford-2003]
 
-## Recruiting is the job
+**Ownership (1983).** At Aspen he explained Apple's stock options to designers and said what he believed they
+did: made people feel it was their company. "You work for Apple first and your boss second." [SJA-ASPEN83 clip: Giving employees
+ownership]
 
-> "I spend 20 percent of my time recruiting, even now." [MSW-interview-company-of-giants, 1990s]
+**The work motivates (1990s).** He said it's ultimately the work that binds people together, and that it's
+"very hard to get people motivated to make a breakfast cereal." [MSW-interview-company-of-giants]
 
-> "And that's one of my mantras around Apple and Pixar: that recruiting is the most important thing that you
-> do." [MSW-speech-stanford-2003]
+**Letting people go (1995 and 2003).** He said it has to be done, and humanely [SI95]. By 2003 he spoke of
+remembering that the person has to go home and tell their family [MSW-speech-stanford-2003].
 
-> "There are no shortcuts around quality, and quality starts with people." [MSW-interview-company-of-giants]
+## How to apply it (our suggestion)
 
-On his mentor Robert Noyce, as CEO of Intel: "His job was to, number one, recruit; number two, set an overall
-direction; and number three, you know, inspire and cajole and persuade." [MSW-interview-leslie-berlin-2003,
-24 May 2003] And: "If you're smart, you're hiring twenty-five-year-olds who are smarter than you."
-[MSW-interview-leslie-berlin-2003]
+1. **Size the range.** For each key role, write what the best person produces that an average one doesn't.
+   If the gap is large, hire as if it is.
+2. **Start from results.** Before you post a role, list three results you admire elsewhere and find out who
+   made them.
+3. **Set the bar in writing.** Results (or potential), love of the work, and conviction. Agree before you
+   meet anyone.
+4. **Ask *why are you here?*** Listen to how they think, not the answer.
+5. **Test conviction without insult.** Raise the strongest real objection to a decision from their past
+   work. See if they defend it with reasons or change their mind for good ones.
+6. **Record the gut call.** Write hire or don't hire, your confidence, and one line why. Check it after six
+   months.
+7. **Budget the founder's time.** Set a recruiting share for the founders and track it monthly. His 20
+   percent is a reference point, not a rule.
 
-## How to tell an A player (1990s)
+## A worked number (fictional)
 
-**If they have a track record, look at results.**
+A 15-person startup needs a lead for its data pipeline. The best pipeline engineer they know of cut a peer
+company's processing costs by 60 percent; an average hire would hold costs flat.
 
-> "There are people who look so good on paper and talk such a good story but have no results behind them."
-> [MSW-interview-company-of-giants]
+- **Range:** large. They budget 4 months of search, not 4 weeks, and pay 25 percent above their band.
+- **Results:** they list three teams with results they admire and contact the people responsible.
+- **Founder time:** 6 hours a month on recruiting (invented). They raise it to one day a week until the role
+  is filled.
+- **Gut log:** after six months, two of three calls look right. The miss was a candidate who interviewed
+  well with no results anyone could confirm.
 
-> "Ultimately the results should lead you to the people. As a matter of fact, that's how I find great people. I
-> look at great results and I find out who was responsible for them." [MSW-interview-company-of-giants]
+## Failure modes and limits (our reading)
 
-**If they're young, judge potential.** "the primary attributes of potential are intelligence and the ability to
-learn quickly. Much of it is also drive and passion—hard work makes up for a lot."
-[MSW-interview-company-of-giants]
-
-**Test conviction.** He described criticising a candidate's past work on purpose, to see if they'd fold.
-"What I look for is for someone to come right back and say" that he was wrong, and why.
-[MSW-interview-company-of-giants] His reason: "if your company is a meritocracy of ideas, with passionate
-people, you have a company with a lot of arguments." [MSW-interview-company-of-giants]
-
-**Accept it's a bet, and learn from it.** "When you recruit, you're rolling the dice." "As you hire people over
-time, your gut instinct gets better and more precise." [MSW-interview-company-of-giants] In 2007 he called it
-being "a really good talent scout" and said you have to "size people up fairly quickly, make decisions without
-knowing people too well and hire them" [D5-07, 30 May 2007].
-
-**Our reading on the conviction test:** the goal is to see whether someone defends good work under pressure.
-You can test that by asking them to defend a real decision against a real objection. You don't need to insult
-anyone to do it.
-
-## Letting people go
-
-> "It's painful when you have some people who are not the best people in the world and you have to get rid of
-> them" ... "I've always tried to do it in a humane way. But nonetheless it has to be done and it is never fun."
-> [SI95]
-
-By 2003 he described it differently: when you're older "you realize that that person is going to have to go
-home to their wife and their children and tell them they got fired today" [MSW-speech-stanford-2003].
-
-## Teams: managers, values and the work
-
-**Promote the people who care.** On Apple in 1997: "So we actually got rid of most of the management team and
-promoted a lot of these young people into management positions." [MSW-speech-stanford-2003]
-
-> "But the only good reason to be a manager is so some other bozo doesn't be the manager—and ruin the group you
-> care about." [MSW-speech-stanford-2003]
-
-**Simplify the org.** At WWDC in May 1997 (a machine transcript of the archive.org recording, made for this
-repo; check wording against the video), on the restructure: Apple went from "a very divisionally oriented
-company with a zillion P&L centers" to "a very simple organization." [WWDC97 67:23] "Very functionally
-organized." [WWDC97 67:36]
-
-**Manage by values.** "What that means is you find people that want the same things you want, and then just get
-the hell out of their way." [MSW-speech-stanford-2003] (He credits the idea to a man who ran Disney
-University.)
-
-**Let ideas come from anywhere.** "The first one was a real belief that there wasn't a hierarchy of ideas that
-mapped onto the hierarchy of the organization." [MSW-interview-terry-gross-1996, 1996] And: "They hire people
-to tell them what to do. We hired people to tell us what to do." [MSW-interview-terry-gross-1996]
-
-**The work is the motivator.** "But it's ultimately the work that motivates people. That's what binds them
-together." [MSW-interview-company-of-giants] "That's why it's so important to pick very important things to do
-because it's very hard to get people motivated to make a breakfast cereal." [MSW-interview-company-of-giants]
-
-**Results are what count.** "Our customers aren't going to measure us on how hard people tried or how hungry
-they were." [WWDC97 65:58]
-
-**Keep the talent wanting to stay.** At Pixar, with no contracts: "Every single day we worry about how we can
-make Pixar a better company so that nobody will ever want to leave, and so we don't take anybody for granted."
-[MSW-interview-about-pixar, 22 Nov 1996]
+- **Copying the temper.** He described being hard on people. He also described learning, by 1992, to help
+  people learn instead of fixing things for them [MIT92]. Take the bar, not the manner.
+- **A players without A work.** His breakfast-cereal line cuts both ways: great people leave work that isn't
+  worth caring about.
+- **Prima donnas.** He said great people work well together [MSW-speech-stanford-2003]. If one doesn't, the
+  bar was wrong.
+- **Pedigree as a proxy.** He warned about people who "look so good on paper" with no results behind them
+  [MSW-interview-company-of-giants].
 
 **Use it now:** `templates/03-a-player-hiring-bar.md`.
 
 **Checks to run:**
-1. In your most important role, how big is the gap between your best and an average hire? Do you pay and
-   recruit as if it's 2 to 1, or 50 to 1?
-2. What share of the founders' time goes to recruiting this month? Is it near his 20 percent?
+1. In your most important role, how big is the gap between your best and an average hire? Do you recruit as
+   if it's 2 to 1, or 50 to 1?
+2. What share of the founders' time goes to recruiting this month?
 3. For your last three hires, what results could they point to, and who checked?
-4. Who is managing a group they don't care about? Who cares and should be managing it?
+4. Who on the team tells you what should be done, not just does what you say?
+5. Who is managing a group they don't care about?
