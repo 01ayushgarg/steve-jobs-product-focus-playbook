@@ -5,66 +5,69 @@ with and how to tell the world about it. It covers building products and compani
 politics, his private life, his health beyond what he said himself in the 2005 Stanford address, or his
 disputes.
 
-Citation IDs are in `SOURCES.md`: `[STAN05]` Stanford commencement (2005) · `[SI95]` Smithsonian oral history
-(1995) · `[D5-07]` D5 with Bill Gates (2007) · `[FLASH10]` "Thoughts on Flash" (2010) · `[WWDC97 mm:ss]` WWDC
-1997 closing session · `[D8-10]` D8 liveblog (2010) · `[MSW-...]` sections of *Make Something Wonderful*
-(Steve Jobs Archive, 2023), each with its own date.
+Citation IDs are listed in `SOURCES.md`.
 
-## The four companies, as the sources describe them
+## The companies, as the sources describe them
 
-**Apple, the first time (1976 to 1985).** In his own telling: "Woz and I started Apple in my parents' garage
-when I was 20. We worked hard, and in 10 years Apple had grown from just the two of us in a garage into a $2
-billion company with over 4,000 employees." [STAN05] Why they built the first one: "The reason we [Woz and I]
-built a computer was that we wanted one, and we couldn't afford to buy one." [MSW-launching-apple, recalled in
-1996] The Macintosh shipped in January 1984. A year later he was out: "So at 30 I was out. And very publicly
-out." [STAN05]
+| Years | Company | What the sources say | Source |
+|---|---|---|---|
+| 1976 to 1985 | Apple, the first time | Started with Wozniak "in my parents' garage when I was 20"; ten years later a $2 billion company with over 4,000 employees; he was out at 30 | [STAN05] |
+| 1985 to 1997 | NeXT | Meant to keep innovating as at Apple [SI95]; the hardware strategy he later called a mistake (chapter 04) [SI95]. The Archive dates the exit from hardware to Feb 1993 and Apple's purchase to Dec 1996 | [MSW-key-events, the Archive's words] |
+| 1986 onward | Pixar | Bought from George Lucas as a graphics group; its real vision, he said, was to tell stories | [SI95] |
+| 1997 onward | Apple, the return | In May 1997 an adviser who said he didn't make the decisions [WWDC97 50:10]; interim CEO from Sep 1997 in the Archive's timeline; he said Apple was about ninety days from bankruptcy | [MSW-key-events, the Archive's words], [MSW-on-returning-to-apple] |
 
-**NeXT (1985 to 1997).** The plan was to keep going: "We basically wanted to keep doing what we were doing at
-Apple, to keep innovating." [SI95] He later called the hardware strategy a mistake (chapter 04). The
-Archive's timeline says NeXT stopped making computers in February 1993 to focus on software, and that Apple
-bought NeXT for $427 million in December 1996 [MSW-key-events, the Archive's words]. His view in 1995: "That's
-the real gem." (about the NeXTStep software) [SI95]
-
-**Pixar (1986 onward).** "I bought this group from George Lucas and I incorporated it as Pixar and we set
-about revolutionizing high end computer graphics." [SI95] Then the real goal: "But Pixar had another vision.
-Pixar's vision was to tell stories." [SI95] For years, by his own account, the strategy was "find a way to pay
-the bills" [MSW-on-pixar-early-days, 2003], and he called that a mistake (chapter 08).
-
-**Apple, the return (1997 onward).** In May 1997 he spoke at WWDC as an adviser, not the decision-maker: "But
-I don't make these decisions." [WWDC97 50:10] (WWDC97 is a machine transcript of the archive.org recording,
-made for this repo; check wording against the video.) The Archive dates his appointment as interim CEO to
-September 1997 [MSW-key-events, the Archive's words]. How he took the job: "And I decided right up front that I
-was just going to act like I was the permanent CEO, because they didn't need a caretaker."
-[MSW-on-returning-to-apple, told in 2003] And the state of the company: "It was about ninety days away from bankruptcy."
-[MSW-on-returning-to-apple]
+Two lines in his own words. On why he and Wozniak built a computer: "we wanted one, and we couldn't afford to
+buy one." [MSW-launching-apple, recalled in 1996] On how he took the CEO job in 1997: he decided to act as if
+he were the permanent CEO, "because they didn't need a caretaker." [MSW-on-returning-to-apple, told in 2003]
 
 ## Why this playbook focuses on 1997
 
-Most of the method in this repo comes from the turnaround: the product line cut to four (chapter 01), the
-customer-experience-first rule (chapter 02), "Think Different" (chapter 06) and Apple's reason for being
-(chapter 07). He explained these decisions while making them, in 1997 and 1998, which makes them unusually
-well documented in his own words.
+Most of the method in this repo comes from the turnaround: the product line cut (chapter 01), the
+customer-experience-first rule (chapter 02), *Think Different* (chapter 06) and Apple's reason for being
+(chapter 07). He explained these decisions while making them, in 1997 and 1998, and looked back on them in
+2004 and 2008 (BusinessWeek and Fortune). That makes them unusually well documented in his own words.
+
+## How to weigh the sources (our reading)
+
+Not every source is equally solid. In order of confidence:
+
+1. **Texts he wrote or published:** emails and the open letter (*Thoughts on Flash*). The words are his.
+2. **Prepared or professionally transcribed speeches and interviews:** Stanford 2005, D5, the speeches in
+   *Make Something Wonderful*.
+3. **Edited interviews:** Smithsonian 1995, Wired 1996, BusinessWeek 2004, Fortune 2008. The words are his,
+   but an editor chose and trimmed them.
+4. **Caption transcripts:** MIT 1992 (the MIT video page's caption transcript) and the Archive's captions for
+   Aspen 1983. Good, but not proofread texts.
+5. **Our machine transcript:** WWDC 1997. Used where no other source says the same thing, and checked against a
+   second transcription.
+6. **A liveblog:** D8 2010. Context only.
+
+When two sources say the same thing, the playbook cites the higher one.
 
 ## Read him with his own caveats
 
-> "And I've made this mistake probably more than anybody else in this room. ... And I've got the scar tissue to
-> prove it." [WWDC97 52:28 to 52:31] (On starting with the technology instead of the customer.)
-
 > "I'm not always wise enough to know when to go for the best and when to just go for better."
-> [MSW-interview-company-of-giants, 1990s] (On being "too idealistic".)
+> [MSW-interview-company-of-giants, 1990s]
 
-> "People say you learn more from failures than you do from successes, and that's probably true. And I've made
-> more mistakes than most people I know." [MSW-speech-stanford-2003, 29 May 2003]
+He also said he had "made more mistakes than most people I know" [MSW-speech-stanford-2003, 29 May 2003], and
+that starting from the technology was a mistake he had made more than most [WWDC97 52:28]. In 1985 he said of
+how he'd handled conflict at Apple in his twenties: "I'm not a sixty-two-year-old statesman" [MSW-interview-newsweek-1985, autumn 1985]. In 1992 he said the biggest change in him was taking a longer-term view of people
+[MIT92].
 
-> "You know, I'm not a sixty-two-year-old statesman that's traveled around the world all his life."
-> [MSW-interview-newsweek-1985, autumn 1985] (On how he handled conflict at Apple in his twenties.)
+## What to borrow, and what not to (our reading)
 
-**Our reading:** take the focus, the cuts and the standards. Don't copy the temper. Where he describes being
-hard on people (chapter 05), he also says what it cost and what he'd learned by 2003.
+| Borrow | Don't copy |
+|---|---|
+| Cutting to what your best people can staff (chapter 01) | The exact number four, or the 70 percent |
+| Starting from the customer's result (chapter 02) | *No market research* as a reason to skip customers |
+| Owning the primary technology (chapter 04) | Building hardware because Apple did |
+| A high bar for people (chapter 05) | The temper |
+| One clear message (chapter 06) | Ads with no facts, for a product nobody knows yet |
+| Stopping and restarting when it isn't working (chapter 08) | Waiting until the last minute to do it |
 
 **Use it now:** `SKILL.md`, Step 1.
 
 **Checks to run:**
-1. Which of his four companies looks most like yours today: early Apple, NeXT, early Pixar or Apple in 1997?
+1. Which of his companies looks most like yours today: early Apple, NeXT, early Pixar or Apple in 1997?
 2. What did that company have to stop doing before it worked?
 3. Which of his caveats above applies to you?
